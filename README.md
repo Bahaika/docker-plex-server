@@ -1,6 +1,6 @@
 ### Plex media server
 
-![Plex logo](https://raw.githubusercontent.com/Bahaika/docker-plex-server/master/plex-logo.jpg)
+![Plex logo](https://raw.githubusercontent.com/HipsterWhale/docker-plex-server/master/plex-logo.jpg)
 
 #### Information
 
