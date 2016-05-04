@@ -6,7 +6,7 @@
 
 This image of plex will :
 
- - Use Plex Version `0.9.16.2.1827-df572f6` (it will be maintained up to date)
+ - Use Plex Version `0.9.16.6.1993-5089475` (it will be maintained up to date)
  - Store plex configuration in `/etc/plex`
 
 #### Usage
