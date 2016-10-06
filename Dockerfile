@@ -7,6 +7,7 @@ ENV PLEXVERSION 1.2.2.2857-d34b464
 # Installing plex
 RUN apt-get -qq update
 RUN apt-get -qq install -y wget
+RUN locale-gen en_US.UTF-8
 RUN wget --quiet https://downloads.plex.tv/plex-media-server/${PLEXVERSION}/plexmediaserver_${PLEXVERSION}_amd64.deb -O plex.deb
 RUN dpkg -i plex.deb
 RUN rm plex.deb
