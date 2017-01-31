@@ -2,7 +2,7 @@ FROM ubuntu:14.04
 MAINTAINER Jérémy SEBAN <jeremy@seban.eu>
 
 # Setting plex verion
-ENV PLEXVERSION 1.2.2.2857-d34b464
+ENV PLEXVERSION 1.3.3.3148-b38628e
 
 # Installing plex
 RUN apt-get -qq update
